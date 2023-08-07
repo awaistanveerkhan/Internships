@@ -6,7 +6,7 @@ Data science virtual internship programme by British Airways through Forage!
 - Analyze customer reviews using sentimental analysis to sort positive and negative reviews
 - Prepare a powerpoint representation to highlight insights and analysis
 
-# Task 2  
+# Task 2
 - Creating a classification model to predict customer buying behaviour
 - Preparing a powerpoint representation to highlight insights and analysis
 
