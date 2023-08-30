@@ -8,4 +8,4 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 ## Task3 - Movie Rating Prediction
 A model that predicts the rating of a movie based on features like `genre`, `movie name`,`user ratings` and alot more. The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics.
-[Dataset](https://www.kaggle.com/code/sherinclaudia/movie-rating-prediction/notebook)
+<br>[Dataset](https://www.kaggle.com/code/sherinclaudia/movie-rating-prediction/notebook)
